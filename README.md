@@ -1,13 +1,23 @@
+
+<img align="right" height="170" style="margin: 25px" src="https://media3.giphy.com/media/2yrwORnQHLFXzoTQHj/giphy.gif?cid=ecf05e47gvbyg9bgc03aqc2r7fppbutq275ajy6umw2fu44g&rid=giphy.gif&ct=g"/>
+
+
 ```diff
 < Yasmin 'Yasxxv' ✨ />
 
-> front-end developer
+> nas horas vagas desenhista e pintora
+> mãe do nick e da princesa // dois gatinhos
 > ela/dela
-> 20 anos
-
-! ama Arco-íris 
-! apaixona por gatos
+> vegetariana
+ 
+! front-end developer em formação
+! ex-aluna do Instituto PROA
+! se arrisca em design
 ```
+#### 🔗 Me encontre
+
+<a href="https://www.linkedin.com/in/yasminbenicio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://instagram.com/littleyaxx?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <!--
 **yasxxv/yasxxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
