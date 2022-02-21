@@ -2,7 +2,7 @@
 <img align="right" height="250" style="padding: 25px" src="https://media3.giphy.com/media/UEGwYCVTBFa9tJEf66/giphy.gif?cid=ecf05e47xri74c8bjoamwxekjsnchr80a4jxrhalgqhshsdx&rid=giphy.gif&ct=g"/>
 
 ```diff
-< Yasmin 'Yasxxv' ✨ />
+< Yasmin 'Yasxxv' ⭐ />
 
 > nas horas vagas desenhista e pintora
 > mãe do nick e da princesa // dois gatinhos
