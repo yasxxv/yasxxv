@@ -13,6 +13,15 @@
 ! ex-aluna do Instituto PROA
 ! se arrisca em design
 ```
+
+
+ ### Mais projetinhos ⭐
+
+  <div style="background-color: white"> 
+  <a href = "https://codepen.io/yasxxv">
+  <img height="50px" margin-left="500px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
+  </div>  
+ 
 #### 🔗 Me encontre
 
 <a href="https://www.linkedin.com/in/yasminbenicio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
