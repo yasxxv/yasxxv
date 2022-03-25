@@ -14,7 +14,7 @@
 ! se arrisca em design
 ```
 
-- <img src="codepen.png" width="20px"> Meu Codepen: <a href="https://codepen.io/yasxxv" target="_blank">@yasxxv</a>
+- <img src="codepen.png" width="17px"> Meu Codepen: <a href="https://codepen.io/yasxxv" target="_blank">@yasxxv</a>
  
 #### 🔗 Me encontre
 
