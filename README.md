@@ -14,13 +14,7 @@
 ! se arrisca em design
 ```
 
-
- ### Mais projetinhos ⭐
-
-  <div style="background-color: white"> 
-  <a href = "https://codepen.io/yasxxv">
-  <img height="50px" margin-left="500px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
-  </div>  
+- <img src="codepen.png" width="20px"> Meu Codepen: <a href="https://codepen.io/yasxxv" target="_blank">@yasxxv</a>
  
 #### 🔗 Me encontre
 
