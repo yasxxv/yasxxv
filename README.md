@@ -10,6 +10,7 @@
 > vegetariana
  
 ! front-end developer em formação
+! cursando ADS
 ! ex-aluna do Instituto PROA
 ! se arrisca em design
 ```
