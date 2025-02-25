@@ -5,12 +5,11 @@
 < Yasmin 'Yasxxv' ⭐ />
 
 > nas horas vagas desenhista e pintora
-> mãe do nick e da princesa // dois gatinhos
+> mãe do nick, princesa e Kai // tres gatinhos
 > ela/dela
-> vegetariana
  
 ! front-end developer em formação
-! cursando ADS
+! formada em ADS
 ! ex-aluna do Instituto PROA
 ! se arrisca em design
 ```
